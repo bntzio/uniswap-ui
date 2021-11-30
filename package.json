@@ -1,0 +1,11 @@
+{
+  "name": "uniswap-ui",
+  "version": "0.0.0",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/uniswap-ui.git",
+  "author": "Enrique Benitez",
+  "license": "UNLICENSED",
+  "bin": {
+    "uniswap-ui": "cli.js"
+  }
+}
